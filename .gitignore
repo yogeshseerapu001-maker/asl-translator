@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (any name)
+env/
+.venv/
+venv/
+tf-env/
+**/env/
+**/.venv/
+**/venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# ML artifacts
+*.h5
+*.keras
+models/
