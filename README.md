@@ -27,7 +27,7 @@ asl_translator/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/asl-translator.git
+git clone https://github.com/yogeshseerapu001-maker/asl-translator.git
 cd asl-translator
 ```
 
