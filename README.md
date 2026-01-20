@@ -68,4 +68,6 @@ Then follow the menu:
 - Output: 24 classes (softmax activation)
 
 ## License
-MIT License - feel free to use and modify!
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
