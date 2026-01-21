@@ -1,4 +1,21 @@
-# ASL Translator
+# ASL Translator 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asl-translator-yogesh.streamlit.app)
+
+##  Live Demo
+
+**[Try it live on Streamlit Cloud!](https://asl-translator-yogesh.streamlit.app)**
+
+> Note: Camera functionality works when running locally. The cloud version showcases the UI and architecture.
+
+##  Run Locally (with Camera)
+
+\`\`\`bash
+git clone https://github.com/yogeshseerapu001-maker/asl-translator.git
+cd asl-translator
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+\`\`\`
 
 Real-time American Sign Language letter recognition using MediaPipe and deep learning.
 

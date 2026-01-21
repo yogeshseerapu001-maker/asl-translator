@@ -14,6 +14,19 @@ import config
 import time
 from collections import deque
 
+# Check if running locally or on cloud
+IS_LOCAL = os.path.exists('helpers.py')
+
+if IS_LOCAL:
+    from helpers import HandTracker
+    import config
+else:
+    # Demo config for cloud deployment
+    class config:
+        MODEL_FILE = 'my_asl_model.h5'
+        LETTERS = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M',
+                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y']
+
 # Page configuration
 st.set_page_config(
     page_title="ASL Translator",
