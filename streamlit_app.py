@@ -1,7 +1,10 @@
 # =============================================================================
 # streamlit_app.py - Beautiful web UI for ASL Translation
 # =============================================================================
-
+# Note: Camera won't work on deployed version (browser security)
+# But the UI and model will be visible for demonstration
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow warnings
 import streamlit as st
 import cv2
 import numpy as np
