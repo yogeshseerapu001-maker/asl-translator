@@ -4,7 +4,7 @@
 
 ##  Live Demo
 
-**[Try it live on Streamlit Cloud!](https://asl-translator-yogesh.streamlit.app)**
+**[Try it live on Streamlit Cloud!](https://asl-translator-eggoiinqhsj9538qgk6qfs.streamlit.app/)**
 
 > Note: Camera functionality works when running locally. The cloud version showcases the UI and architecture.
 
