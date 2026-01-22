@@ -1,6 +1,6 @@
 # ASL Translator 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asl-translator-yogesh.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asl-translator-eggoiinqhsj9538qgk6qfs.streamlit.app/)
 
 ##  Live Demo
 
